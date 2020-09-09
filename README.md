@@ -18,3 +18,5 @@ Fork后在你的项目下点击Settings增加`SCHOOL_NAME`、`ACCOUNT`、`PASSWO
 
 ### Credits
 * [Finch/FuckDailyCP](https://gitee.com/Finch1/FuckDailyCP)
+
+### jerry
